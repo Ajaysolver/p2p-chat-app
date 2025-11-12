@@ -1,5 +1,12 @@
 # P2P Secure Chat Application
 
+![Python](https://img.shields.io/badge/python-3.6+-blue.svg)
+![Platform](https://img.shields.io/badge/platform-linux-red.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
+**College Minor Project** - Computer Science Department
+# P2P Secure Chat Application
+
 A Linux-based peer-to-peer chat application with end-to-end encryption, built for Kali Linux.
 
 ## Features
