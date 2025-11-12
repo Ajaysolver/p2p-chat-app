@@ -8,6 +8,14 @@ A Linux-based peer-to-peer chat application with end-to-end encryption, built fo
 - No central server required
 - Cross-platform compatibility
 - Secure key exchange
+  Python 3.x
+##Technologies
+
+-Python 3.x
+-Socket Programming
+-Cryptography
+-Tkinter GUI
+-Bash Scripting
 
 ## Quick Start on Kali Linux
 
