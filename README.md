@@ -8,6 +8,16 @@
 # P2P Secure Chat Application
 
 A Linux-based peer-to-peer chat application with end-to-end encryption, built for Kali Linux.
+## Demo
+
+### GUI Interface
+![GUI Demo](screenshots/gui-demo.png)
+
+### CLI Interface  
+![CLI Demo](screenshots/cli-demo.png)
+
+### Architecture
+![Architecture](screenshots/architecture.png)
 
 ## Features
 - Peer-to-peer architecture
