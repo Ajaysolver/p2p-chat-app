@@ -59,3 +59,9 @@ chmod +x scripts/install_dependencies.sh
 
 # Or start CLI version
 python run.py --port 5000
+
+# In the application, connect to another peer:
+connect <ip-address> <port>
+
+# Example:
+connect 192.168.1.100 5001
