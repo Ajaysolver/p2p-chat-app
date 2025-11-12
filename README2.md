@@ -1,4 +1,5 @@
 🏗️ Project Architecture
+
 p2p-chat-app/
 ├── src/
 │   ├── core/           # P2P networking logic
